@@ -10,7 +10,7 @@ require "plugins.private_browsing_tab"
 ```
 to your rc.lua in ~/.config/luakit/
 
-Add a command to the add_cmds call in your binds.lua to toggle private browsing on and off with the command :pr or :private
+Add a command to the add_cmds call in your binds.lua to toggle private browsing on and off.
 
 For example:
 ```lua
