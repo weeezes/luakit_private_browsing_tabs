@@ -23,3 +23,4 @@ add_cmds({
     ...
 })
 ```
+This allows you to use commands :pr and :private to toggle private browsing on and off.
