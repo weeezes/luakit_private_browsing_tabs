@@ -11,7 +11,7 @@ local print = print
 local ipairs = ipairs
 local type = type
 
-module("plugins.private_browsing_tab")
+module("plugins.private_browsing_tabs")
 
 -- Private tab label
 theme.private_tab_fg            = "#CC76BB"
